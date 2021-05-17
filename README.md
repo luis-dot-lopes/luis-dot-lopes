@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**luis-dot-lopes/luis-dot-lopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Luis Antonio and I'm a 16 years old programming student.
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I know:
+
+- Java 8 (lower intermediate)
+- Kotlin (intermediate)
+- Python (mainly 3)
+- C (lower intermediate)
+- Haskell (lower intermediate)
+- Javascript (intermediate)
+- Markup: HTML and CSS
+
+### I'm interested in:
+
+- SDL2 (learning)
+- NodeJS (learning)
+- Machine Learning (no experience)
+- Game Development (learning)
+
+### Operating systems I use:
+
+- Manjaro Linux
+- Windows 10
