@@ -10,7 +10,7 @@ My name is Luis Antonio and I'm a 16 years old programming student.
 - Kotlin (intermediate)
 - Python (mainly 3)
 - C (lower intermediate)
-- Haskell (lower intermediate)
+- Haskell (lower intermediate / beginner)
 - Javascript (intermediate)
 - Markup: HTML and CSS
 
