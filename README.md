@@ -23,5 +23,5 @@ My name is Luis Antonio and I'm a 16 years old programming student.
 
 ### Operating systems I use:
 
-- Manjaro Linux
+- Manjaro Linux XFCE
 - Windows 10
