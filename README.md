@@ -1,6 +1,6 @@
 ### Hello there
 
-My name is Luis Antonio and I'm a 16 years old programming student.
+My name is Luis Antonio and I'm a programming student.
 
 ***
 
