@@ -26,5 +26,5 @@ My name is Luis Antonio and I'm a programming student.
 - Manjaro Linux XFCE
 - Windows 10
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=luis-dot-lopes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=luis-dot-lopes&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
