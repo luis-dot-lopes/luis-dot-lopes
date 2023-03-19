@@ -28,4 +28,4 @@ My name is Luis Antonio and I'm a programming student.
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=luis-dot-lopes&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dot-lopes)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-dot-lopes&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
